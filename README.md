@@ -16,3 +16,6 @@ A implementação está dividida entre as seguintes estruturas:
 - Carregamento de dados
 - Modelo treinado
 - Bibliotecas
+
+
+** Nas próximas horas estarei anexando a atribuição da rede a uma tecla **
